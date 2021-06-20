@@ -1,6 +1,19 @@
 <h1 align="center">Hi! 👋🏼 I'm Alberto Almuiña!</h1>
 <h3 align="center">Time Series Lover / Data Scientist</h3>
 
+Some facts about myself:
+
+```
+me <- list(
+  name = "Almuiña",
+  first_name = "Alberto",
+  occupation = "Data Scientist",
+  employer = "ABANCA",
+  favorite_programming_language = "R",
+  my_r_packages = c("boostime", "bayesmodels", "garchmodels")
+)
+```
+
 📌 You can check my [Blog](https://albertoalmuinha.com/) where I talk about my experiences and the packages I develop 📖
 
 <h3 align="left">Connect with me:</h3>
