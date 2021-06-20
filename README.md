@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋🏼 I'm Alberto Almuiña!</h1>
-<h3 align="center">Time Series Lover / Data Scientist</h3>
+<h3 align="center"> 📈 Time Series Lover / Data Scientist 📊</h3>
 
 Some facts about myself:
 
