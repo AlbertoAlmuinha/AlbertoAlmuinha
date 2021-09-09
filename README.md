@@ -10,7 +10,8 @@ me <- list(
   occupation = "Data Scientist",
   employer = "ABANCA",
   favorite_programming_language = "R",
-  my_r_packages = c("boostime", "bayesmodels", "garchmodels")
+  my_r_packages = c("boostime", "bayesmodels", "garchmodels", "neuralprophet", 
+                    "DSpoty", "shinyrecipes", "ROMDB", "rgenius")
 )
 ```
 
