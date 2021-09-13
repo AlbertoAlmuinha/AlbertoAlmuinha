@@ -1,6 +1,8 @@
 <h1 align="center">Hi! 👋🏼 I'm Alberto Almuiña!</h1>
 <h3 align="center"> 📈 Time Series Lover / Data Scientist 📊</h3>
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=AlbertoAlmuinha&label=Profile%20views&color=44be16&style=flat" alt="AlbertoAlmuinha" /></p>
+
 Some facts about myself:
 
 ```
